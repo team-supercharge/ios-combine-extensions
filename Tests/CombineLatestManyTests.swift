@@ -3,6 +3,7 @@
 //  CombineExtTests
 //
 //  Created by Jasdev Singh on 3/22/20.
+//  Copyright © 2020 Combine Community. All rights reserved.
 //
 
 #if !os(watchOS)
